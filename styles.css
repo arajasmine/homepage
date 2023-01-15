@@ -108,7 +108,7 @@ p, ul, span {
     padding: 10px;
 }
 
-#languages li{
+#languages li, #skills li{
     margin-bottom: 15px;
 }
 
@@ -128,4 +128,20 @@ p, ul, span {
     margin-bottom: 10px;
 }
 
+footer {
+    text-align: center;
+}
+
+footer span {
+    display: block;
+    margin-top: -45px;
+    padding: 0;
+
+    color: gray;
+}
+
+footer a {
+    color: gray;
+    text-decoration:none
+}
 
