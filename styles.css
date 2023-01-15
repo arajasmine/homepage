@@ -49,3 +49,14 @@ table {
 
 /* My CSS */ 
 
+body {
+    background: lavender;
+}
+
+main {
+    background: ghostwhite; 
+    font-size: 20px; 
+    padding: 50px; 
+    border: 3px solid violet; 
+    margin: 100px;
+}
