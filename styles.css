@@ -47,6 +47,30 @@ table {
 	border-spacing: 0;
 }
 
+
+/* Mobile - view */
+@media screen and (max-width: 764px) {
+    main { 
+        flex-direction: column; 
+        margin: auto auto;
+    }
+
+    #column-1, #column-2, #column-3 {
+        width: 100% !important;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    main {
+        padding: 0.5px !important;
+        margin: 10px !important;
+
+        margin-bottom: 100px !important;
+
+        text-align: center;
+    }
+}
+
 /* My CSS */ 
 
 body {
