@@ -95,7 +95,7 @@ h1 {
     width: 35%;
 }
 
-#bio {
+#bio, #languages, #education, #Experience, #skills {
     margin-top: 20px;
 }
 
@@ -107,3 +107,25 @@ p, ul, span {
     font-size: 13px;
     padding: 10px;
 }
+
+#languages li{
+    margin-bottom: 15px;
+}
+
+
+#soc-med img, #soc1 {
+    width: 50px;
+    margin: 0 auto;
+}
+
+#picture, #location, #soc-med {
+
+    margin: 0 auto;
+    max-width: 200px;
+
+    border-radius: 150px;
+
+    margin-bottom: 10px;
+}
+
+
